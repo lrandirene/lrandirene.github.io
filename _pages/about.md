@@ -17,10 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Liu Run. I recently graduated from Wuhan University with a Bachelor’s degree in Computer Science and Technology. My research interests lie in agent safety and LLM reasoning. I am eager to learn from peers and welcome collaborations of all kinds.
+I am Liu Run, a first-year Ph.D. student in the School of Artificial Intelligence at Shanghai Jiao Tong University, in a joint training program with Shanghai AI Laboratory. I obtained my Bachelor's degree in Computer Science and Technology from Wuhan University. My research lies at the intersection of agentic AI, world models, and AI safety: I aim to develop agents that build coherent, predictive models of their environments while remaining aligned, robust, and trustworthy. I am eager to learn from peers and welcome collaborations of all kinds.
+
+I have a number of preliminary ideas in the areas of GUI agents and agent safety, and I also enjoy working on lightweight, fast-to-deploy benchmarks. My next project will focus on a visual agent harness. Feel free to reach out if these directions resonate with you—I'd be happy to chat and collaborate.
 
 
 # 🔥 News
+- *2026.09*:I finished a work on machine unlearning and submitted it to ICLR (under review).
+- *2026.07*: Our work on LLM personality, on which I am a co-first author, was posted as a preprint on arXiv.
 - *2026.06*: &nbsp;🎉🎉 I was awarded the title of Outstanding Graduate of Wuhan University.
 - *2026.04*: &nbsp;🎉🎉 One paper I contributed to has been accepted by ACL.
 - *2025.12*: &nbsp;🎉🎉 I was awarded the Lei Jun Scholarship(10,000 RMB). I am grateful for the education and nurturing provided by my university.
@@ -35,8 +39,17 @@ My name is Liu Run. I recently graduated from Wuhan University with a Bachelor�
 # 📝 Publications 
 
 ## 🥇 First & Co-first Author Papers (First / Co-first Author)
-
+[Your LLM, Your Style: Behavioral Mode Axes for LLM Behavioral Control](https://arxiv.org/abs/2608.10703)  
+Haoze Liu, **Run Liu**, Haiying Xu, Jiahui Han, Siyuan Fang, Siyu Yan, Huiqi Deng, Guanchu Wang, Na Zou. **arXiv preprint, 2026**.
+[Forgetting Who, Preserving What: Speaker-Identity Unlearning in Audio-Language Models]
+**Run Liu**, Jiaqi Li, Jingyu Li, Jiaxin Guo, Haoze Liu, Yingjun Shang, Hanrui Xu, Lingshuai Lin.**under review, 2026**
 ## 🤝 **Collaborative Papers (Contributing Author)**
+[Generate Multiple Actions, Execute One: Experience-Guided Action Selection for LLM Agent Reinforcement Learning]
+Jiaxin Guo, Haosen Dong, Chenxu Zhang, Muyang Yan, **Run Liu**, Xielyu Ni, Xin Peng, Xiaoming Wu, Zhen Dong.**under review, 2026**
+
+[Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination](https://arxiv.org/abs/2608.14391)  
+Shuo Liang, Yixing Ma, Pengfei Zhou, Zhenglin Wan, Xingyan Chen, Zihan Mei, Manting Li, Feihan Chen, Zhiwen Wang, Bin Xu, Haotian Zhang, Jiajun Song, Shiya Su, **Run Liu**, Zhenghang Ni, Yifa Yu, Jintao Hong, Bolong Feng, Yifei Liu, Zirui Zhang, Jingxuan Zhang, Songlin Zhao, Yifan Bai, Kang Tan, Yizhe Liu, Junhao Du, Yongtao Ge, Zhaopan Xv, Xinyuan Zhang, Mengru Ma, Chunhua Shen, Wei Wang, Yang You, Zheng Zhu, Kaipeng Zhang, Wangbo Zhao. **arXiv preprint, 2026**.
+
 [Mitigating Over-Refusal in Aligned Large Language Models via Inference-Time Activation Energy](https://openreview.net/pdf?id=oaBEvGsVQd)
 Eric Hanchen Jiang, Weixuan Ou, **Run Liu**, Shengyuan Pang, Guancheng Wan, Ranjie Duan, Wei Dong, Kai-Wei Chang, XiaoFeng Wang, Ying Nian Wu, Xinfeng Li,**ACL 2026**
 
@@ -73,6 +86,7 @@ Guancheng Wan, Xu Cheng, **Run Liu**, Wenke Huang, Zitong Shi, Pinyi Jin, Guibin
 - *2023.12* the Yisheng Scholarship.
 
 # 📖 Educations
+- *2026.09 - 2031.06*,Shanghai Jiao Tong University
 - *2022.09 - 2026.06*,Wuhan University
 
 <!-- # 💬 Invited Talks
@@ -80,7 +94,8 @@ Guancheng Wan, Xu Cheng, **Run Liu**, Wenke Huang, Zitong Shi, Pinyi Jin, Guibin
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.11 - 2026.05*, Shanghai AI Lab, China.
+- *2026.10 - 至今*, antgroup, Hangzhou.
+- *2025.11 - 2026.05*, Shanghai AI Lab, Shanghai.
 
 # 🎐 Miscellaneous
 

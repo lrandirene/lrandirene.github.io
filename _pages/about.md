@@ -96,7 +96,7 @@ Guancheng Wan, Xu Cheng, **Run Liu**, Wenke Huang, Zitong Shi, Pinyi Jin, Guibin
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2026.10 - 至今*, antgroup, Hangzhou.
+- *2026.10 - 至今*, Antgroup, Hangzhou.
 - *2025.11 - 2026.05*, Shanghai AI Lab, Shanghai.
 
 # 🎐 Miscellaneous

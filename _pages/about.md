@@ -41,6 +41,7 @@ I have a number of preliminary ideas in the areas of GUI agents and agent safety
 ## 🥇 First & Co-first Author Papers (First / Co-first Author)
 [Your LLM, Your Style: Behavioral Mode Axes for LLM Behavioral Control](https://arxiv.org/abs/2608.10703)  
 Haoze Liu, **Run Liu**, Haiying Xu, Jiahui Han, Siyuan Fang, Siyu Yan, Huiqi Deng, Guanchu Wang, Na Zou. **arXiv preprint, 2026**.
+
 **Forgetting Who, Preserving What: Speaker-Identity Unlearning in Audio-Language Models**  
 **Run Liu**, Jiaqi Li, Jingyu Li, Jiaxin Guo, Haoze Liu, Yingjun Shang, Hanrui Xu, Lingshuai Lin. **Under review, 2026**.
 

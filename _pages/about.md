@@ -23,7 +23,7 @@ I have a number of preliminary ideas in the areas of GUI agents and agent safety
 
 
 # 🔥 News
-- *2026.09*:I finished a work on machine unlearning and submitted it to ICLR (under review).
+- *2026.09*:I finished work on machine unlearning and submitted it to ICLR (under review).
 - *2026.07*: Our work on LLM personality, on which I am a co-first author, was posted as a preprint on arXiv.
 - *2026.06*: &nbsp;🎉🎉 I was awarded the title of Outstanding Graduate of Wuhan University.
 - *2026.04*: &nbsp;🎉🎉 One paper I contributed to has been accepted by ACL.
@@ -41,11 +41,12 @@ I have a number of preliminary ideas in the areas of GUI agents and agent safety
 ## 🥇 First & Co-first Author Papers (First / Co-first Author)
 [Your LLM, Your Style: Behavioral Mode Axes for LLM Behavioral Control](https://arxiv.org/abs/2608.10703)  
 Haoze Liu, **Run Liu**, Haiying Xu, Jiahui Han, Siyuan Fang, Siyu Yan, Huiqi Deng, Guanchu Wang, Na Zou. **arXiv preprint, 2026**.
-[Forgetting Who, Preserving What: Speaker-Identity Unlearning in Audio-Language Models]
-**Run Liu**, Jiaqi Li, Jingyu Li, Jiaxin Guo, Haoze Liu, Yingjun Shang, Hanrui Xu, Lingshuai Lin.**under review, 2026**
-## 🤝 **Collaborative Papers (Contributing Author)**
-[Generate Multiple Actions, Execute One: Experience-Guided Action Selection for LLM Agent Reinforcement Learning]
-Jiaxin Guo, Haosen Dong, Chenxu Zhang, Muyang Yan, **Run Liu**, Xielyu Ni, Xin Peng, Xiaoming Wu, Zhen Dong.**under review, 2026**
+**Forgetting Who, Preserving What: Speaker-Identity Unlearning in Audio-Language Models**  
+**Run Liu**, Jiaqi Li, Jingyu Li, Jiaxin Guo, Haoze Liu, Yingjun Shang, Hanrui Xu, Lingshuai Lin. **Under review, 2026**.
+
+## 🤝 Collaborative Papers (Contributing Author)
+**Generate Multiple Actions, Execute One: Experience-Guided Action Selection for LLM Agent Reinforcement Learning**  
+Jiaxin Guo, Haosen Dong, Chenxu Zhang, Muyang Yan, **Run Liu**, Xielyu Ni, Xin Peng, Xiaoming Wu, Zhen Dong. **Under review, 2026**.
 
 [Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination](https://arxiv.org/abs/2608.14391)  
 Shuo Liang, Yixing Ma, Pengfei Zhou, Zhenglin Wan, Xingyan Chen, Zihan Mei, Manting Li, Feihan Chen, Zhiwen Wang, Bin Xu, Haotian Zhang, Jiajun Song, Shiya Su, **Run Liu**, Zhenghang Ni, Yifa Yu, Jintao Hong, Bolong Feng, Yifei Liu, Zirui Zhang, Jingxuan Zhang, Songlin Zhao, Yifan Bai, Kang Tan, Yizhe Liu, Junhao Du, Yongtao Ge, Zhaopan Xv, Xinyuan Zhang, Mengru Ma, Chunhua Shen, Wei Wang, Yang You, Zheng Zhu, Kaipeng Zhang, Wangbo Zhao. **arXiv preprint, 2026**.

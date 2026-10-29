@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Liu Run, a first-year Ph.D. student in the School of Artificial Intelligence at Shanghai Jiao Tong University, in a joint training program with Shanghai AI Laboratory. I obtained my Bachelor's degree in Computer Science and Technology from Wuhan University. My research lies at the intersection of agentic AI, world models, and AI safety: I aim to develop agents that build coherent, predictive models of their environments while remaining aligned, robust, and trustworthy. I am eager to learn from peers and welcome collaborations of all kinds.
+I am Liu Run, a first-year Ph.D. student in the School of Artificial Intelligence at Shanghai Jiao Tong University, in a joint training program with Shanghai AI Laboratory. I obtained my Bachelor's degree in Computer Science and Technology from Wuhan University. My research lies at the intersection of agentic AI, world models, and AI safety. I am eager to learn from peers and welcome collaborations of all kinds.
 
 I have a number of preliminary ideas in the areas of GUI agents and agent safety, and I also enjoy working on lightweight, fast-to-deploy benchmarks. My next project will focus on a visual agent harness. Feel free to reach out if these directions resonate with you—I'd be happy to chat and collaborate.
 
 
 # 🔥 News
-- *2026.09*:I finished work on machine unlearning and submitted it to ICLR (under review).
+- *2026.09*: I finished work on machine unlearning and submitted it to ICLR (under review).
 - *2026.07*: Our work on LLM personality, on which I am a co-first author, was posted as a preprint on arXiv.
 - *2026.06*: &nbsp;🎉🎉 I was awarded the title of Outstanding Graduate of Wuhan University.
 - *2026.04*: &nbsp;🎉🎉 One paper I contributed to has been accepted by ACL.
